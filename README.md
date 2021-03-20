@@ -1,7 +1,7 @@
 # Music Engine Wiki
 
 
-*   **[Home](/ninacoder-info/music-engine-web-wiki/wiki)**
+*   **[Home](https://github.com/ninacoder-info/music-engine-web-wiki/wiki)**
 *   **[01\. About](/ninacoder-info/music-engine-web-wiki/wiki/01.-About)**
 *   **[02\. Demo](/ninacoder-info/music-engine-web-wiki/wiki/02.-Demo)**
 *   **[03\. Server Requirements](/ninacoder-info/music-engine-web-wiki/wiki/03.-Server-Requirements)**
