@@ -30,4 +30,3 @@
 *   **[How to setup Wasabi Cloud](/ninacoder-info/music-engine-web-wiki/wiki/How-to-setup-Wasabi-Cloud)**
 *   **[Setup Sign In With Apple](/ninacoder-info/music-engine-web-wiki/wiki/Setup-Sign-In-With-Apple)**
 *   **[Upgrade your site](/ninacoder-info/music-engine-web-wiki/wiki/Upgrade-your-site)**
-*   <button type="button" class="f6 mx-auto btn-link Link--muted js-wiki-more-pages-link">Show 14 more pages…</button>
