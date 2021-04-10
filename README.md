@@ -1,7 +1,7 @@
 # Music Engine Wiki
 
 
-# Hot fix for Admin Translation
+# **[Hot fix for Admin Translation](https://github.com/ninacoder-info/music-engine-web-wiki/wiki/Hotfix-for-Admin-Panel-Translation-module)**
 
 
 *   **[Home](https://github.com/ninacoder-info/music-engine-web-wiki/wiki)**
