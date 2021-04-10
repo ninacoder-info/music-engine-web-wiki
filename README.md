@@ -1,6 +1,9 @@
 # Music Engine Wiki
 
 
+# Hot fix for Admin Translation
+
+
 *   **[Home](https://github.com/ninacoder-info/music-engine-web-wiki/wiki)**
 *   **[01\. About](https://github.com/ninacoder-info/music-engine-web-wiki/wiki/01.-About)**
 *   **[02\. Demo](https://github.com/ninacoder-info/music-engine-web-wiki/wiki/02.-Demo)**
